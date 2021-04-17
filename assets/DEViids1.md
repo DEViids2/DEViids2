@@ -1,0 +1,2 @@
+[<img src="https://lh4.googleusercontent.com/E-FlRc417V0FowHQ4awCiJTwb8wWlud8Vuc33pAz2VGx-TcCWa_xYQVHfrv2NJfPaXeR8qQ5ZPcdHw=w2560-h1298" alt="👋 Hi there! I'm (A Software Engineer)|https://deviids2.hashnode.dev)" title="👋 Hi there! I'm (David Safwat)|https://deviids2.hashnode.dev)"/>](https://deviids2.hashnode.dev)
+![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DEViids2.DEViids2&color=3869FF)
