@@ -2,6 +2,6 @@
 <div align="center">
   
 [![Repos Badge](https://badges.pufler.dev/repos/DEViids2)](https://badges.pufler.dev)
-[![visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DEViids2.DEViids2&color=3869FF)
+[visitors](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DEViids2.DEViids2&color=3869FF)
 
 </div>
