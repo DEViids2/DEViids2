@@ -7,4 +7,6 @@
 
 </div>
 
-[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
+<div align="right">
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DEViids2&theme=monokai-metallian&border=35FF2D&background=232350&stroke=35FF2D&ring=1C51DD&fire=35FF2D&currStreakNum=49DDC9&sideNums=2EDD50&currStreakLabel=70DD73&sideLabels=75DDAC&dates=70C4DD)](https://git.io/streak-stats)
+</div>
