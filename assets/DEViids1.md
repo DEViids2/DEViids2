@@ -9,5 +9,5 @@
 
 <div align="right">
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DEViids2&theme=monokai-metallian&border=35FF2D&background=232350&stroke=35FF2D&ring=1C51DD&fire=1C51DD&currStreakNum=49DDC9&sideNums=2EDD50&currStreakLabel=70DD73&sideLabels=75DDAC&dates=70C4DD)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DEViids2&theme=monokai-metallian&border=35FF2D&background=232350&stroke=35FF2D&ring=1C51DD&fire=1C51DD&currStreakNum=49DDC9&sideNums=2EDD50&currStreakLabel=49DDC9&sideLabels=75DDAC&dates=70C4DD)](https://git.io/streak-stats)
 </div>
