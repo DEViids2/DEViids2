@@ -7,7 +7,13 @@
 
 </div>
 
+<div align="center">
+<div align="left">
+
+![Metrics](https://metrics.lecoq.io/DEViids2?template=classic&tweets=1&tweets.attachments=false&tweets.limit=2&tweets.user=DEViids2&config.timezone=Africa%2FCairo)
+</div>
 <div align="right">
-  
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DEViids2&theme=monokai-metallian&border=35FF2D&background=232350&stroke=35FF2D&ring=1C51DD&fire=1C51DD&currStreakNum=49DDC9&sideNums=2EDD50&currStreakLabel=49DDC9&sideLabels=75DDAC&dates=70C4DD)](https://git.io/streak-stats)
+</div>
 </div>
