@@ -20,9 +20,9 @@
   </div>
 </h3>
 
-<div style="display:flex">
-  <div style="flex:1"><img src="https://metrics.lecoq.io/DEViids2?template=classic&amp;tweets=1&amp;tweets.attachments=false&amp;tweets.limit=2&amp;tweets.user=DEViids2&amp;config.timezone=Africa%2FCairo" alt="Metrics"></div>
+<div style="display: flex">
+  <div style="flex: 1"> <img src="https://metrics.lecoq.io/DEViids2?template=classic&amp;tweets=1&amp;tweets.attachments=false&amp;tweets.limit=2&amp;tweets.user=DEViids2&amp;config.timezone=Africa%2FCairo" alt="Metrics"></div>
   
-  <div style="flex:1"><a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DEViids2&amp;theme=monokai-metallian&amp;border=35FF2D&amp;background=232350&amp;stroke=35FF2D&amp;ring=1C51DD&amp;fire=1C51DD&amp;currStreakNum=49DDC9&amp;sideNums=2EDD50&amp;currStreakLabel=49DDC9&amp;sideLabels=75DDAC&amp;dates=70C4DD" alt="GitHub Streak"></a></div>
+  <div style="flex: 2"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DEViids2&amp;theme=monokai-metallian&amp;border=35FF2D&amp;background=232350&amp;stroke=35FF2D&amp;ring=1C51DD&amp;fire=1C51DD&amp;currStreakNum=49DDC9&amp;sideNums=2EDD50&amp;currStreakLabel=49DDC9&amp;sideLabels=75DDAC&amp;dates=70C4DD" alt="GitHub Streak"></a></div>
 </div>
 <p><a href="https://github.com/DEViids2"><img src="https://activity-graph.herokuapp.com/graph?username=DEViids2&amp;bg_color=33459e&amp;color=9e4c98&amp;line=d544cb&amp;point=4b1eb3&amp;area=true&amp;hide_border=true" alt="Ashutosh&#39;s github activity graph"></a></p>
