@@ -2,7 +2,7 @@
 -->
 <!-- <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hi%20there👋,%20I'm%20David%20Safwat&fontSize=50&font-family=roboto"/>
---
+-->
 <h3 align="center">
   Welcome to David Safwat&#39;s profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
