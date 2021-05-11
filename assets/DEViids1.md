@@ -20,13 +20,13 @@
   </div>
 </h3>
 
-<div style="grid-template-columns: 1fr 1fr; display: grid;">
+<div style="grid-template-columns:1fr 1fr; display:grid;">
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com?user=DEViids2&amp;background=141439&amp;border=725292&amp;stroke=725292&amp;ring=D9AE09&amp;fire=D8AD09&amp;currStreakNum=FE1AFE&amp;sideNums=D8AD09&amp;currStreakLabel=FE1AFE&amp;sideLabels=D8AD09&amp;dates=7957D5" alt="GitHub Streak"></p>
 
   <p><img src="https://github-readme-stats.vercel.app/api?username=DEViids2&amp;show_icons=true&amp;theme=outrun " alt="Anurag&#39;s GitHub stats"></p>
 
-  <div style="flex:1"><img src="https://metrics.lecoq.io/DEViids2?template=classic&amp;tweets=1&amp;tweets.attachments=false&amp;tweets.limit=2&amp;tweets.user=DEViids2&amp;config.timezone=Africa%2FCairo" alt="Metrics"></div>
+  <div><img src="https://metrics.lecoq.io/DEViids2?template=classic&amp;tweets=1&amp;tweets.attachments=false&amp;tweets.limit=2&amp;tweets.user=DEViids2&amp;config.timezone=Africa%2FCairo" alt="Metrics"></div>
 
 </div>
 
