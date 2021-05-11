@@ -8,7 +8,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
     <div align="center">
 
-  <a href="https://deviids2.hashnode.dev"> <img src="https://readme-typing-svg.herokuapp.com?color=3869FF&amp;size=30&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=45&amp;lines=Hi+there!+I&#39;m+David+Safwat;I&#39;m+a+Full-stack+Web+Developer!" alt="Typing SVG"> </a>
+  <a href="https://deviids2.hashnode.dev"><img src="https://readme-typing-svg.herokuapp.com?color=3869FF&amp;size=30&amp;center=true&amp;vCenter=true&amp;width=550&amp;height=45&amp;lines=Hi+there!+I&#39;m+David+Safwat;I&#39;m+a+Full-stack+Web+Developer!" alt="Typing SVG"></a>
 
   <a href="https://badges.pufler.dev"><img src="https://badges.pufler.dev/repos/DEViids2" alt="Repos Badge"></a>
   <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=DEViids2.DEViids2&amp;color=3869FF" alt="visitors">
@@ -20,9 +20,14 @@
   </div>
 </h3>
 
-<div style="display: flex">
-  <div style="flex: 1"> <img src="https://metrics.lecoq.io/DEViids2?template=classic&amp;tweets=1&amp;tweets.attachments=false&amp;tweets.limit=2&amp;tweets.user=DEViids2&amp;config.timezone=Africa%2FCairo" alt="Metrics"></div>
-  
-  <div style="flex: 2"> <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=DEViids2&amp;theme=monokai-metallian&amp;border=35FF2D&amp;background=232350&amp;stroke=35FF2D&amp;ring=1C51DD&amp;fire=1C51DD&amp;currStreakNum=49DDC9&amp;sideNums=2EDD50&amp;currStreakLabel=49DDC9&amp;sideLabels=75DDAC&amp;dates=70C4DD" alt="GitHub Streak"></a></div>
+<div style="grid-template-columns: 1fr 1fr; display: grid;">
+
+  <p><img src="https://github-readme-streak-stats.herokuapp.com?user=DEViids2&amp;background=141439&amp;border=725292&amp;stroke=725292&amp;ring=D9AE09&amp;fire=D8AD09&amp;currStreakNum=FE1AFE&amp;sideNums=D8AD09&amp;currStreakLabel=FE1AFE&amp;sideLabels=D8AD09&amp;dates=7957D5" alt="GitHub Streak"></p>
+
+  <p><img src="https://github-readme-stats.vercel.app/api?username=DEViids2&amp;show_icons=true&amp;theme=outrun " alt="Anurag&#39;s GitHub stats"></p>
+
+  <div style="flex:1"><img src="https://metrics.lecoq.io/DEViids2?template=classic&amp;tweets=1&amp;tweets.attachments=false&amp;tweets.limit=2&amp;tweets.user=DEViids2&amp;config.timezone=Africa%2FCairo" alt="Metrics"></div>
+
 </div>
-<p><a href="https://github.com/DEViids2"><img src="https://activity-graph.herokuapp.com/graph?username=DEViids2&amp;bg_color=33459e&amp;color=9e4c98&amp;line=d544cb&amp;point=4b1eb3&amp;area=true&amp;hide_border=true" alt="Ashutosh&#39;s github activity graph"></a></p>
+
+<p><a href="https://github.com/DEViids2"><img src="https://activity-graph.herokuapp.com/graph?username=DEViids2&amp;bg_color=141439&amp;color=9e4c98&amp;line=d544cb&amp;point=4b1eb3&amp;area=true&amp;hide_border=true" alt="Ashutosh&#39;s github activity graph"></a></p>
