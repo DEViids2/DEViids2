@@ -20,7 +20,7 @@
   </div>
 </h3>
 
-<div style="grid-template-columns:1fr 1fr; display:grid;">
+<div style="grid-template-columns:1fr 1fr; display:grid; align: center;">
 
   <p><img src="https://github-readme-streak-stats.herokuapp.com?user=DEViids2&amp;background=141439&amp;border=725292&amp;stroke=725292&amp;ring=D9AE09&amp;fire=D8AD09&amp;currStreakNum=FE1AFE&amp;sideNums=D8AD09&amp;currStreakLabel=FE1AFE&amp;sideLabels=D8AD09&amp;dates=7957D5" alt="GitHub Streak"></p>
 
